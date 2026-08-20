@@ -70,7 +70,6 @@ final routed pcb image:
 
 ---
 ---
-
 # Session 04: Working on PCB Art
 
 to make the pcb art, i decided to use canva (easier than figma so...).
@@ -100,40 +99,6 @@ now i'm working on finalising the design where i'm planning to:
 - put led on front side and rest components on back side => change routing (again)
 
 **Total time spent: 1.5 hours**
-
----
----
-
-# Session 05: Finalising the Design
-
-so i made the final design by doing what i thought i will need to do. now i'll get it reviewed in slack foirst and then submit it full and final.
-
-just as a re-cap this what i did:
-- changed routing to make the led on the front side (actrual pcb's back side)
-- re-adjusted the pcb art images to fit hr pcb better (i know it's overflowiung a bit in the images, however that's intentional) (had to do this a few times to get it just right)
-- exported everything i needed (gerbers, bom, etc.)
-- tried to configure the jlcpcb order
-
-final pcb images:
-schematic
-![schem](./images/schematic.png)
-
-routing
-![routing](./images/routing_final.png)
-
-pcb design
-
-> have disables top silk layer so that components are visible
-![design file](./images/pcb_final.png)
-
-3d view
-![3d view front](./images/pcb_3d_front.png)
-![3d view back](./images/pcb_3d_back.png)
-
-will now the readme and submit the project for review
-
-
-**Total time spent: 0.3 hours (20min)**
 
 ---
 # Session 05: Finalising the Design
@@ -207,3 +172,6 @@ writing the final reamde now, and updating the gerbers, etc.
 **Total time spent: 0.5 hours (30min)**
 
 ---
+
+
+# TOTAL TIME SPENT: 4.16 hours
