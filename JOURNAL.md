@@ -63,6 +63,7 @@ asked in slack for help (in the #hardware channel huddle) ==> found that i can i
 final routed pcb image:
 
 ![routing](./images/routing.png)
+(still have the same drc errors shown above btw)
 
 
 **Total time spent: 1 hour**
@@ -72,13 +73,29 @@ final routed pcb image:
 
 # Session 04: Working on PCB Art
 
+to make the pcb art, i decided to use canva (easier than figma so...).
+i got my images from pinterest mostly. i removed the background and tested with a few options (adjusted the settings while importing in easyeda, downloaded and edited the images a few times)
+
+options i tried (screenshots of a few iterations): 
+
+![option 1](./images/journal_img/sess4_opt1.jpeg)
+![option 2](./images/journal_img/sess4_opt2.jpeg)
+![option 3](./images/journal_img/sess4_opt3.jpeg)
+![option 4](./images/journal_img/sess4_opt4.jpeg)
+![option 5](./images/journal_img/sess4_opt5.jpeg)
+
+then i moved on to the front side of the card where i will put my social links etc.
+i designed that also in canva and experimented with some different layouts (layout inspiration from pinterest as well)
+
+finally i settled on this design:
+
+front side
+![front side card](./images/final_design_front.jpg)
+
+back side
+![back side card](./images/final_design_back.jpg)
 
 
-schematic image:
-
-![schem](./images/schematic.png)
-
-
-**Total time spent: 0.4 hours**
+**Total time spent: 1.5 hours**
 
 ---
