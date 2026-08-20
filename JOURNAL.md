@@ -136,3 +136,74 @@ will now the readme and submit the project for review
 **Total time spent: 0.3 hours (20min)**
 
 ---
+# Session 05: Finalising the Design
+
+so i made the final design by doing what i thought i will need to do. now i'll get it reviewed in slack foirst and then submit it full and final.
+
+just as a re-cap this what i did:
+- changed routing to make the led on the front side (actrual pcb's back side)
+- re-adjusted the pcb art images to fit hr pcb better (i know it's overflowiung a bit in the images, however that's intentional) (had to do this a few times to get it just right)
+- exported everything i needed (gerbers, bom, etc.)
+- tried to configure the jlcpcb order
+
+final pcb images:
+schematic
+![schem](./images/schematic.png)
+
+routing
+![routing](./images/journal_img/sess5_routing_final.png)
+
+pcb design
+
+> have disables top silk layer so that components are visible
+![design file](./images/journal_img/sess5_pcb_final.png)
+
+3d view
+![3d view front](./images/journal_img/sess5_pcb_3d_front.png)
+![3d view back](./images/journal_img/sess5_pcb_3d_back.png)
+
+will now the readme and submit the project for review
+
+
+**Total time spent: 0.3 hours (20min)**
+
+---
+---
+# Session 06: Revamp Needed, Revamp Done
+
+wrote some part of the readme.
+
+added the pcb and pcba option to cart and found out that the cost was around $72 (wayyy out of budget). this is was mostly due to the fact that i needed 2 sided pcba and had to pick the 'standard' pcba option in jlcpcb.
+
+so i decided to be a bit creative. i put the nfc trace on the back side (theone with the lot of designs) and put all other components on the front side (where the led and social links are).
+
+i had to change the following:
+- route the circuit again (had to do it twice, because it never happens in one go...)
+- interchange the imported designs and position them again
+- flip the nfc trace to the opposite side and position it again
+- routed once and then realised the other components were in the wayy, so undid the routing, moved the components and re-routed everything
+
+checked drc, and checked pcba options after exporting stuff properly. got the price down to ~$35 (including shipping) (yaayayaya)
+
+final final pcb images:
+schematic
+![schem](./images/schematic.png)
+
+routing
+![routing](./images/routing.png)
+
+pcb design
+
+> have disables top silk layer so that components are visible
+![design file](./images/pcb_final.png)
+
+3d view
+![3d view front](./images/pcb_3d_front.png)
+![3d view back](./images/pcb_3d_back.png)
+
+
+writing the final reamde now, and updating the gerbers, etc.
+
+**Total time spent: 0.5 hours (30min)**
+
+---
